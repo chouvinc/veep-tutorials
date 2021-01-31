@@ -1,0 +1,19 @@
+{
+  "name": "veep-tutorials",
+  "version": "1.0.0",
+  "description": "A package for tutorial materials",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chouvinc/veep-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chouvinc/veep-tutorials/issues"
+  },
+  "homepage": "https://github.com/chouvinc/veep-tutorials#readme"
+}
