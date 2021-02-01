@@ -1,0 +1,20 @@
+.Profile {
+    margin: 4vmin;
+}
+
+.Profile-name {
+
+}
+
+.Profile-corgi {
+    width: 20vmin;
+    border-radius: 5%;
+    vertical-align: middle;
+}
+
+.Profile-content {
+    margin: 1vmin 10vmin;
+    display: inline-block;
+    align-items: center;
+    vertical-align: middle;
+}
